@@ -1,0 +1,8 @@
+{
+  "name": "Cơm Văn Phòng - Ngon Như Nhà Làm",
+  "description": "Dịch vụ cung cấp cơm trưa văn phòng chuyên nghiệp tại Hà Nội. Giao cơm đúng giờ, thực đơn đa dạng, thực phẩm sạch và nóng hổi mỗi ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
